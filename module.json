@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "product": "CyberHub",
+  "type": "module",
+  "id": "overlay",
+  "name": "Overlay",
+  "summary": "Add labels, metadata captions and watermarks to image batches.",
+  "version": "1.0",
+  "minimum_hub_version": "1.3.0",
+  "repository": "cyberdeliaAI/CyberHub-Overlay",
+  "publisher_type": "official",
+  "channel": "stable",
+  "dependencies": [],
+  "python_dependencies": [
+    "Pillow>=9.0"
+  ]
+}
